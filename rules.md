@@ -25,10 +25,10 @@ Unbans can not be purchased. If you are caught ban evading ( using another mojan
 2. Creation of large structures outside somebody elses' base for no raiding purposes is not allowed. The structure will be removed and the player will be given a game-play warning.
 3. Use of alt accounts is not allowed, the server has the tools needed to play and win without alts. All alt accounts and the main account will be permanently banned.
 4. Automation of any task on the server is not allowed, and you will be permanently banned.
-5. Cannons shooting below or at Y10 must have a minimum speed of 1s. Cannons fired faster than this will be removed and the builder will be permanently banned.
-6. Cannons shooting above y10 must have a minimum speed of 3s. Cannons fired faster than this will be removed and the builder will be permanently banned.
+5. Cannons shooting below or at Y10 must have a minimum speed of 1s and can only destroy one wall per 1s. Cannons fired faster than this will be removed and the builder will be permanently banned.
+6. Cannons shooting above y10 must have a minimum speed of 3s and can only destroy one wall per 3s. Cannons fired faster than this will be removed and the builder will be permanently banned.
 7. One faction is only allowed to have one cannon running at once, if found with 2 running, they will both be removed and the player will be permanently banned.
-8. Cannons are only allowed to at a maximum height of Y255. Canons firing above that will be removed and the builder will be permanently banned.
+8. Cannons are only allowed to fire at a maximum height of Y255. Canons firing above that will be removed and the builder will be permanently banned.
 9. Bases are not allowed to have unraidable defences. The defences will be removed and the builder will be given 2 game play warnings
 10. Bases are only allowed to be a maximum size of 8x8 chunks, and a minimum size of 1x1 chunks. Buffers can be a maximum size of 20 chunks. This includes defences, the base and oceans.
 11. Spawners are allowed to be boxed and are allowed to be watered, however, you may have a maximum of 10 boxes in your base, any more found will be removed and the player that placed them will be given a game-play warning
