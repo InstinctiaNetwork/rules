@@ -10,7 +10,7 @@
 *How punishments work?*
 
 Once you reach 3 warns of the type ( i.e. 3 chat warns or 3 game-play warns ), you will be banned. Bans are permanent, and will only be revoked in *special* cases. If you believe your punishment was not deserved, you can create a ticket, or if you believe it was of malicious intent by a staff member, please contact me immediately.
-Unbans can not be purchased. If you are caught ban evading ( using another mojang account to join ), you will be permanently banned on that account.
+Unbans can not be purchased. If you are caught ban evading ( using another mojang account to join ), you will be permanently ip-banned on that account.
 
 *Global Rules*
 
