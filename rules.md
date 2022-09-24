@@ -21,7 +21,7 @@ Unbans can not be purchased. If you are caught ban evading ( using another mojan
 
 *Factions Rules*
 
-1. Claiming near somebody elses' claims is not allowed, and will result in the claims being removed and the player being given a game-play warning.
+1. Claiming near somebody elses' claims without a valid purpose is not allowed, and will result in the claims being removed and the player being given a game-play warning.
 2. Creation of large structures outside somebody elses' base for no raiding purposes is not allowed. The structure will be removed and the player will be given a game-play warning.
 3. Use of alt accounts is not allowed, the server has the tools needed to play and win without alts. All alt accounts and the main account will be permanently banned.
 4. Automation of any task on the server is not allowed, and you will be permanently banned.
